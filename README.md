@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋 I'm Samson Tadesse</h1>
+<h1 align="center">Hi 👋 I'm Samson </h1>
 
-# 💫 About Me:
-I am a senior computer science student with a minor in data science, experienced in full-stack web development, cloud computing, and advanced machine learning. Additionally, I hold a DevOps Professional Certification, bringing expertise in deploying scalable solutions and optimizing system performance.
-
-## 🚀 What I'm Up To
-
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
 
 Check out my [coding portfolio!](https://samportfolio7.netlify.app/)
 
